@@ -1,2 +1,2 @@
-# bashito
-Bash scripts for GNU/Linux administration
+# Bashitos
+Bash scripts for GNU/Linux administration.
