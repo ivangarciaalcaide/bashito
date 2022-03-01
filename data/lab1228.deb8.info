@@ -1,0 +1,13 @@
+#
+# NOMBRE_MAQUINA              IP                  MAC_ADDRESS         USUARIO		PASSWORD	ID
+#
+
+lab1228-01.cic      192.168.156.129     00:23:54:33:c1:80   alumno		alumno 		NM-011
+lab1228-02.cic      192.168.156.130     00:23:54:33:c1:db   alumno		alumno 		NM-012
+lab1228-03.cic      192.168.156.131     00:23:54:33:c1:81   alumno		alumno 		NM-013
+lab1228-04.cic      192.168.156.132     00:23:54:33:c1:c9   alumno		alumno 		NM-014
+lab1228-06.cic      192.168.156.134     00:23:54:33:c1:59   alumno		alumno 		NM-016
+lab1228-13.cic      192.168.156.141     00:23:54:33:c1:ca   alumno		alumno 		NM-023
+lab1228-14.cic      192.168.156.142     00:23:54:33:c1:c2   alumno		alumno 		NM-024
+lab1228-15.cic      192.168.156.143     00:23:54:33:c1:bb   alumno		alumno 		NM-025
+lab1228-30.cic      192.168.156.158     00:23:54:33:c1:c0   alumno		alumno		NM-008

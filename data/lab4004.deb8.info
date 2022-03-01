@@ -1,0 +1,14 @@
+#
+# NOMBRE_MAQUINA              IP                  MAC_ADDRESS         USUARIO		    PASSWORD	    ID
+#
+
+lab4004-01.etsisi.upm.es      138.100.155.61      00:1b:fc:72:bf:c3   mantenimiento     alumno 		RT-001
+lab4004-02.etsisi.upm.es      138.100.155.62      00:1b:fc:72:bf:b7   mantenimiento     alumno 		RT-002
+lab4004-03.etsisi.upm.es      138.100.155.63      00:1b:fc:72:bf:bb   mantenimiento     alumno 		RT-003
+lab4004-04.etsisi.upm.es      138.100.155.64      00:1b:fc:72:bf:b2   mantenimiento     alumno 		RT-004
+lab4004-05.etsisi.upm.es      138.100.155.65      00:1a:92:71:c7:5f   mantenimiento     alumno 		RT-005
+lab4004-06.etsisi.upm.es      138.100.155.66      00:1b:fc:72:d5:9a   mantenimiento     alumno 		RT-006
+lab4004-07.etsisi.upm.es      138.100.155.67      00:1a:92:71:c7:5e   mantenimiento     alumno 		RT-007
+lab4004-08.etsisi.upm.es      138.100.155.68      00:1a:92:71:c7:6c   mantenimiento     alumno 		RT-008
+lab4004-09.etsisi.upm.es      138.100.155.69      00:1b:fc:6f:e1:9d   mantenimiento     alumno 		RT-009
+lab4004-10.etsisi.upm.es      138.100.155.70      00:1b:fc:86:1b:17   mantenimiento     alumno 		RT-010

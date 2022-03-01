@@ -1,0 +1,35 @@
+#
+# NOMBRE_MAQUINA              IP                  MAC_ADDRESS         USUARIO		PASSWORD	ID
+#
+
+alumno-01.lab1101.si      	10.11.1.1    	00:0f:ea:57:36:de		    alumno		alumno 		LC-001
+alumno-02.lab1101.si      	10.11.1.2    	00:0f:ea:57:36:9e		    alumno		alumno 		LC-002
+alumno-03.lab1101.si      	10.11.1.3    	00:0f:ea:57:36:c7		    alumno		alumno 		LC-003
+alumno-04.lab1101.si      	10.11.1.4    	00:0f:ea:57:36:a4		    alumno		alumno 		LC-004
+alumno-05.lab1101.si      	10.11.1.5    	00:0f:ea:57:36:e1		    alumno		alumno 		LC-005
+alumno-06.lab1101.si      	10.11.1.6    	00:0f:ea:57:36:85		    alumno		alumno 		LC-006
+alumno-07.lab1101.si      	10.11.1.7    	00:23:54:33:c1:be		    alumno		alumno 		LC-007
+alumno-08.lab1101.si      	10.11.1.8    	00:23:54:33:c1:53		    alumno		alumno 		LC-008
+alumno-09.lab1101.si      	10.11.1.9    	00:23:54:33:c1:cb		    alumno		alumno 		LC-009
+alumno-10.lab1101.si      	10.11.1.10    	00:23:54:33:c1:de		    alumno		alumno 		LC-010
+alumno-11.lab1101.si      	10.11.1.11    	00:23:54:33:c1:c6		    alumno		alumno 		LC-011
+alumno-12.lab1101.si      	10.11.1.12    	00:23:54:33:c1:59		    alumno		alumno 		LC-012
+alumno-13.lab1101.si      	10.11.1.13    	00:0f:ea:57:36:c0		    alumno		alumno 		LC-013
+alumno-14.lab1101.si      	10.11.1.14    	00:0f:ea:57:36:be		    alumno		alumno 		LC-014
+alumno-15.lab1101.si      	10.11.1.15    	00:0f:ea:57:36:87		    alumno		alumno 		LC-015
+alumno-16.lab1101.si      	10.11.1.16    	00:0f:ea:57:36:bf		    alumno   	alumno 		LC-016
+alumno-17.lab1101.si      	10.11.1.17    	00:0f:ea:57:20:49		    alumno		alumno 		LC-017
+alumno-18.lab1101.si      	10.11.1.18    	00:0f:ea:57:36:9a		    alumno		alumno 		LC-018
+alumno-19.lab1101.si      	10.11.1.19    	00:0f:ea:57:36:8f		    alumno		alumno 		LC-019
+alumno-20.lab1101.si      	10.11.1.20    	00:0f:ea:57:36:ca		    alumno		alumno 		LC-020
+alumno-21.lab1101.si      	10.11.1.21    	00:0f:ea:57:36:9f		    alumno		alumno 		LC-021
+alumno-22.lab1101.si      	10.11.1.22    	00:0f:ea:57:36:90		    alumno		alumno 		LC-022
+alumno-23.lab1101.si      	10.11.1.23    	00:0f:ea:57:36:b5		    alumno		alumno 		LC-023
+alumno-24.lab1101.si      	10.11.1.24    	00:0f:ea:57:36:8a		    alumno		alumno 		LC-024
+alumno-25.lab1101.si		10.11.1.25    	00:23:54:33:c1:e2		    alumno		alumno 		LC-025
+alumno-26.lab1101.si		10.11.1.26    	00:23:54:33:c1:c8		    alumno		alumno 		LC-026
+alumno-27.lab1101.si		10.11.1.27    	00:23:54:33:c1:5b		    alumno		alumno 		LC-027
+alumno-28.lab1101.si		10.11.1.28    	00:23:54:33:c1:57		    alumno		alumno 		LC-028
+alumno-29.lab1101.si		10.11.1.29    	00:23:54:33:c1:c7		    alumno		alumno 		LC-029
+alumno-30.lab1101.si		10.11.1.30    	00:23:54:33:c1:f4		    alumno		alumno 		LC-030
+profesor.lab1101.si         10.11.1.31    	00:23:54:33:c1:bc		    alumno		alumno 		LC-031

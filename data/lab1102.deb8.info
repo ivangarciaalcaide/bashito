@@ -1,0 +1,25 @@
+#
+# NOMBRE_MAQUINA              IP            MAC_ADDRESS         USUARIO		PASSWORD	ID
+#
+
+alumno-01.lab1102.si      10.11.2.1         00:0f:ea:34:96:26   alumno		alumno 		TG-001
+alumno-02.lab1102.si      10.11.2.2         00:0f:ea:34:8b:21   alumno		alumno 		TG-002
+alumno-03.lab1102.si      10.11.2.3         00:14:85:b4:75:1f   alumno		alumno 		TG-003
+alumno-04.lab1102.si      10.11.2.4         00:0f:ea:34:8b:15   alumno		alumno 		TG-004
+alumno-05.lab1102.si      10.11.2.5         00:14:85:b4:7f:8a   alumno		alumno 		TG-005
+alumno-06.lab1102.si      10.11.2.6         00:0f:ea:34:8b:85   alumno		alumno 		TG-008
+alumno-07.lab1102.si      10.11.2.7         00:0f:ea:34:8b:6c   alumno		alumno 		TG-007
+alumno-08.lab1102.si      10.11.2.8         00:23:54:33:c1:e6   alumno		alumno 		TG-026
+alumno-09.lab1102.si      10.11.2.9         00:14:85:b4:74:ec   alumno		alumno 		TG-009
+alumno-10.lab1102.si      10.11.2.10        00:14:85:b4:99:56   alumno		alumno 		TG-010
+alumno-11.lab1102.si      10.11.2.11        00:14:85:b4:91:ff   alumno		alumno 		TG-011
+alumno-12.lab1102.si      10.11.2.12        00:0f:ea:34:8b:71   alumno		alumno 		TG-012
+alumno-13.lab1102.si      10.11.2.13        00:0f:ea:34:8b:1d   alumno		alumno 		TG-013
+alumno-14.lab1102.si      10.11.2.14        00:14:85:b4:75:6f   alumno		alumno 		TG-014
+alumno-15.lab1102.si      10.11.2.15        00:14:85:b4:91:a5   alumno		alumno 		TG-015
+alumno-16.lab1102.si      10.11.2.16        00:23:54:33:c1:d0   alumno		alumno 		TG-009
+alumno-17.lab1102.si      10.11.2.17        00:14:85:b4:76:d2   alumno		alumno 		TG-017
+alumno-18.lab1102.si      10.11.2.18        00:0f:ea:34:8b:74   alumno		alumno 		TG-018
+alumno-19.lab1102.si      10.11.2.19        00:14:85:b4:7a:01   alumno		alumno 		TG-019
+alumno-20.lab1102.si      10.11.2.20        00:0f:ea:34:8b:31   alumno		alumno 		TG-020
+alumno-30.lab1102.si      10.11.2.21        00:23:54:33:c1:55   alumno		alumno		TG-007
